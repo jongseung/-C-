@@ -1,0 +1,7 @@
+C:\Users\Administor\source\repos\sever\sever\bin\Debug\sever.exe.config
+C:\Users\Administor\source\repos\sever\sever\bin\Debug\sever.exe
+C:\Users\Administor\source\repos\sever\sever\bin\Debug\sever.pdb
+C:\Users\Administor\source\repos\sever\sever\obj\Debug\sever.csprojAssemblyReference.cache
+C:\Users\Administor\source\repos\sever\sever\obj\Debug\sever.csproj.CoreCompileInputs.cache
+C:\Users\Administor\source\repos\sever\sever\obj\Debug\sever.exe
+C:\Users\Administor\source\repos\sever\sever\obj\Debug\sever.pdb
